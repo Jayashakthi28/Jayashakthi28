@@ -1,5 +1,5 @@
 <!-- <img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" /> -->
-<img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/campan2.gif" /> 
+<img width="auto" align="right" alt="Github" src="https://cdn.dribbble.com/users/1294594/screenshots/5460287/campan2.gif" /> 
 <h2> Hey there! I'm Jayashakthi Vishnu</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
