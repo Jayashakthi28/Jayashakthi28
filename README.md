@@ -24,7 +24,13 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
 <br/>
-
+<h4>My Top Projects</h4>
+<ul>
+  <li><h6><a href="https://github.com/Jayashakthi28/kct_acm_webpage">KCT's ACM student chapter Webpage</a></h6></li>
+  <li><h6><a href="https://github.com/Jayashakthi28/first_model_web">Blogger Webpage</a></h6></li>
+  <li><h6><a href="https://github.com/Jayashakthi28/freecodecamp">Free Codecamp Projects</a></h6></li>
+ </ul>
+ <br/>
 <a href="https://github.com/Jayashakthi28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayashakthi28&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashakthi28&theme=buefy&layout=compact" />
@@ -32,11 +38,5 @@
 
 <br/>
 
-<h4>My Top Projects</h4>
-<ul>
-  <li><a href="https://github.com/Jayashakthi28/kct_acm_webpage">KCT's ACM student chapter Webpage</a></li>
-  <li><a href="https://github.com/Jayashakthi28/first_model_web">Blogger Webpage</a></li>
-  <li><a href="https://github.com/Jayashakthi28/freecodecamp">Free Codecamp Projects</a></li>
- </ul>
- <br/>
+
 ⭐️ From [Jayashakthi28](https://github.com/Jayashakthi28)
