@@ -1,3 +1,4 @@
+<img width="35%" align="right" alt="Github" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 <h2> Hey there! I'm Jayashakthi Vishnu</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
