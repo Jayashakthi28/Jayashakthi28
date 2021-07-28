@@ -40,3 +40,5 @@
 
 
 ⭐️ From [Jayashakthi28](https://github.com/Jayashakthi28)
+##### Visitor count
+![Visitor Count](https://profile-counter.glitch.me/Jayashakthi28/count.svg)
