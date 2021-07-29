@@ -1,4 +1,4 @@
-<img width="35%" align="right" alt="Github" border-radius="0.5rem" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" /> 
+<img width="35%" align="right" alt="Github" border-radius="0.5rem" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" /> 
 <h2> Hey there! I'm Jayashakthi Vishnu</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -24,9 +24,14 @@
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
 
 <br/>
+<img src="https://komarev.com/ghpvc/?username=Jayashakthi28" alt="Jayashakthi" />
 <h4>My Top Projects</h4>
 <ul>
+  <li><h6><a href="https://jsv-movie-db.netlify.app/">Movie Details Site</a></h6></li>
+  <li><h6><a href="https://stylestage.dev/styles/dark-purple/">Style Stage Site CSS modification</a></h6></li>
   <li><h6><a href="https://github.com/Jayashakthi28/kct_acm_webpage">KCT's ACM student chapter Webpage</a></h6></li>
+  <li><h6><a href="https://t.me/cypto_jsv_bot">Crypto Telegram Bot</a></h6></li>
+  <li><h6><a href="https://js-30-jsv.netlify.app/">JS 30 Projects</a></h6></li>
   <li><h6><a href="https://github.com/Jayashakthi28/first_model_web">Blogger Webpage</a></h6></li>
   <li><h6><a href="https://github.com/Jayashakthi28/freecodecamp">Free Codecamp Projects</a></h6></li>
  </ul>
@@ -40,5 +45,3 @@
 
 
 ⭐️ From [Jayashakthi28](https://github.com/Jayashakthi28)
-##### Visitor count
-![Visitor Count](https://profile-counter.glitch.me/Jayashakthi28/count.svg)
