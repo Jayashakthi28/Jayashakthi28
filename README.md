@@ -11,7 +11,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Javascript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -36,10 +36,11 @@
   <li><h6><a href="https://github.com/Jayashakthi28/freecodecamp">Free Codecamp Projects</a></h6></li>
  </ul>
  <br/>
-<a href="https://github.com/Jayashakthi28">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayashakthi28&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashakthi28&theme=buefy&layout=compact" />
-</a>
+<!-- <a href="https://github.com/Jayashakthi28"> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayashakthi28&theme=radical&layout=compact" height="180em"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayashakthi28&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashakthi28&theme=radical&layout=compact" />
+<!-- </a> -->
 
 <br/>
 
