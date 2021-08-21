@@ -5,7 +5,7 @@
 </h3>
 &nbsp;
 
-<img width='600px' align='center' src='https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&center=true&vCenter=true&width=480&lines=%F0%9F%92%BB+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;An+Ardent+Developer+%F0%9F%98%84;interested+for+real+world+projects+%F0%9F%92%A1;Pursuing+my+BTech+IT+degree+%F0%9F%8E%93'>
+<img width='470px' align='center' src='https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&center=true&vCenter=true&width=480&lines=%F0%9F%92%BB+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;An+Ardent+Developer+%F0%9F%98%84;interested+for+real+world+projects+%F0%9F%92%A1;Pursuing+my+BTech+IT+degree+%F0%9F%8E%93'>
 
 
 
