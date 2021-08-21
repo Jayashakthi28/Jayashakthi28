@@ -1,11 +1,7 @@
 <img width="35%" align="right" alt="Github" border-radius="0.5rem" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" /> 
-<h2> Hey there! I'm Jayashakthi Vishnu</h2>
+<a href='#'><img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=470&lines=%F0%9F%91%8B+Hi+There!+I+am+Jayashakthi+Vishnu;%F0%9F%92%BB+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;An+Ardent+Developer+%F0%9F%98%84;interested+for+real+world+projects+%F0%9F%92%A1"></a>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and learning Web development at Odin Project.
-- 🎓 &nbsp; Studying Btech Information Technology.
-- 🌱 &nbsp; Learning more about Web Development,Android App development, Linux,....
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
