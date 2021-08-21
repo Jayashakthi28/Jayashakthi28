@@ -1,5 +1,11 @@
 <img width="35%" align="right" alt="Github" border-radius="0.5rem" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" /> 
-<a href='#'><img src="https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=20&width=470&lines=%F0%9F%91%8B+Hi+There!+I+am+Jayashakthi+Vishnu;%F0%9F%92%BB+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;An+Ardent+Developer+%F0%9F%98%84;interested+for+real+world+projects+%F0%9F%92%A1"></a>
+<h3 align="left">
+  Hello There I am Jayashakthi Vishnu
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+&nbsp;
+
+<img width='450px' align='center' src="https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=450&lines=%F0%9F%92%BB+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;An+Ardent+Developer+%F0%9F%98%84;interested+for+real+world+projects+%F0%9F%92%A1;Pursuing+my+BTech+IT+degree+%F0%9F%8E%93">
 
 
 
