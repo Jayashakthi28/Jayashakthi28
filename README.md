@@ -5,23 +5,22 @@
 </h3>
 &nbsp;
 
-<img width='450px' align='center' src="https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=450&lines=%F0%9F%92%BB+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;An+Ardent+Developer+%F0%9F%98%84;interested+for+real+world+projects+%F0%9F%92%A1;Pursuing+my+BTech+IT+degree+%F0%9F%8E%93">
+<img width='450px' align='center' src="https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=500&lines=%F0%9F%92%BB+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;An+Ardent+Developer+%F0%9F%98%84;interested+for+real+world+projects+%F0%9F%92%A1;Pursuing+my+BTech+IT+degree+%F0%9F%8E%93">
 
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
--
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
--
+
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
--
+
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-6666FF?style=for-the-badge&logo=github&logoColor=white)
--
+
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
