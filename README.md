@@ -8,7 +8,6 @@
 <img width='470px' align='center' src='https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=480&lines=%F0%9F%92%BB+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;An+Ardent+Developer+%F0%9F%98%84;interested+for+real+world+projects+%F0%9F%92%A1;Pursuing+my+BTech+IT+degree+%F0%9F%8E%93'>
 
 
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -25,6 +24,7 @@
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 <br/>
+<hr>
 <img src="https://komarev.com/ghpvc/?username=Jayashakthi28" alt="Jayashakthi" />
  <br/>
 <a href="https://github.com/Jayashakthi28">
