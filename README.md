@@ -31,6 +31,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayashakthi28&theme=radical&layout=compact" height="180em"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashakthi28&theme=radical&layout=compact" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayashakthi28&theme=radical&show_icons=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Jayashakthi28&theme=redical"/>
+
 </a>
 <br/>
 <h4>My Top Projects</h4>
