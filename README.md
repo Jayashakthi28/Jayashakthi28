@@ -28,8 +28,8 @@
 <img src="https://komarev.com/ghpvc/?username=Jayashakthi28" alt="Jayashakthi" />
  <br/>
 <a href="https://github.com/Jayashakthi28">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayashakthi28&theme=radical&layout=compact&hide_border=true&count_private=true" width="450em"/>
-  <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashakthi28&theme=radical&layout=compact&hide=scss,handlebars,shell,ruby,php&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayashakthi28&theme=radical&layout=compact&hide_border=true&count_private=true" width="420em"/>
+  <img width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayashakthi28&theme=radical&layout=compact&hide=scss,handlebars,shell,ruby,php&hide_border=true&count_private=true"/>
   <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jayashakthi28&theme=radical&show_icons=true&hide=commits&hide_border=true"/></div>
   <img src="https://activity-graph.herokuapp.com/graph?username=Jayashakthi28&theme=redical&hide_border=true"/>
 
