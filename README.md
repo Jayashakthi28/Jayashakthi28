@@ -40,16 +40,10 @@
   <img src="https://activity-graph.herokuapp.com/graph?username=Jayashakthi28&theme=redical&hide_border=true"/>
 
 </a>
-<br/>
-<h4>My Top Projects</h4>
-<ul>
-  <li><h6><a href="https://jsv-movie-db.netlify.app/">Movie Details Site</a></h6></li>
-  <li><h6><a href="https://stylestage.dev/styles/dark-purple/">Style Stage Site CSS modification</a></h6></li>
-  <li><h6><a href="https://github.com/Jayashakthi28/kct_acm_webpage">KCT's ACM student chapter Webpage</a></h6></li>
-  <li><h6><a href="https://t.me/cypto_jsv_bot">Crypto Telegram Bot</a></h6></li>
-  <li><h6><a href="https://js-30-jsv.netlify.app/">JS 30 Projects</a></h6></li>
-  <li><h6><a href="https://github.com/Jayashakthi28/first_model_web">Blogger Webpage</a></h6></li>
-  <li><h6><a href="https://github.com/Jayashakthi28/freecodecamp">Free Codecamp Projects</a></h6></li>
- </ul>
-<br>
-⭐️ From <a href="https://github.com/Jayashakthi28">Jayashakthi28</a>
+<hr>
+<h3>🤝 &nbsp;Connect with Me</h3>
+  <a href="https://www.linkedin.com/in/jayashakthi-vishnu/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+<br><br>
+<h4>⭐️ From <a href="https://github.com/Jayashakthi28">Jayashakthi28</a> </h4>
