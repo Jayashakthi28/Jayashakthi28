@@ -7,12 +7,18 @@
 
 <img width='470px' align='center' src='https://readme-typing-svg.herokuapp.com?font=poppins&color=FF5671&size=23&width=480&lines=%F0%9F%92%BB+Learning+Full+Stack+Web+Dev;at+The+Odin+Project+%F0%9F%A4%99%E2%9C%A8;An+Ardent+Developer+%F0%9F%98%84;interested+for+real+world+projects+%F0%9F%92%A1;Pursuing+my+BTech+IT+degree+%F0%9F%8E%93'>
 
+<hr>
+<h3>💻 &nbsp;Currently Learning</h3>
+  
+  ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![JEST](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+<hr>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
